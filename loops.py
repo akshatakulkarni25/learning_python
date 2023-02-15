@@ -1,4 +1,7 @@
-#Loops in Python
+# Loops in Python
+# for loop
+# while loop
+
 
 
 fruits= ['Apple','Banana','Chikoo','Dragonfruit']
